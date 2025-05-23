@@ -1,6 +1,6 @@
-# 📦 Inventory Management System – Mini Project
+# 📦  Warehouse Inventory Management System – Mini Project
 
-A basic Inventory Management System developed using Java and Swing. This project provides a simple graphical interface for managing product inventory, including features such as adding, updating, and deleting items.
+A basic Warehouse Inventory Management System developed using Java and Swing. This project provides a simple graphical interface for managing product inventory, including features such as adding, updating, and deleting items.
 
 
 
